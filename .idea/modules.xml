@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/002_code/zuul-demo/eureka-server/eureka-server (1).iml" filepath="$PROJECT_DIR$/002_code/zuul-demo/eureka-server/eureka-server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/003_software/zuul-demo/eureka-server/eureka-server (2).iml" filepath="$PROJECT_DIR$/003_software/zuul-demo/eureka-server/eureka-server (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/002_code/zuul-demo/eureka-server02/eureka-server02 (1).iml" filepath="$PROJECT_DIR$/002_code/zuul-demo/eureka-server02/eureka-server02 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/003_software/zuul-demo/eureka-server02/eureka-server02 (2).iml" filepath="$PROJECT_DIR$/003_software/zuul-demo/eureka-server02/eureka-server02 (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/002_code/zuul-demo/order-service/order-service (1).iml" filepath="$PROJECT_DIR$/002_code/zuul-demo/order-service/order-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/003_software/zuul-demo/order-service/order-service (2).iml" filepath="$PROJECT_DIR$/003_software/zuul-demo/order-service/order-service (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/002_code/zuul-demo/product-service/product-service (1).iml" filepath="$PROJECT_DIR$/002_code/zuul-demo/product-service/product-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/003_software/zuul-demo/product-service/product-service (2).iml" filepath="$PROJECT_DIR$/003_software/zuul-demo/product-service/product-service (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/002_code/zuul-demo/zuul-demo (1).iml" filepath="$PROJECT_DIR$/002_code/zuul-demo/zuul-demo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/003_software/zuul-demo/zuul-demo (2).iml" filepath="$PROJECT_DIR$/003_software/zuul-demo/zuul-demo (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zuul-hi.iml" filepath="$PROJECT_DIR$/.idea/zuul-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002_code/zuul-demo/zuul-server/zuul-server.iml" filepath="$PROJECT_DIR$/002_code/zuul-demo/zuul-server/zuul-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002_code/zuul-demo/zuul-server-sentinel/zuul-server-sentinel.iml" filepath="$PROJECT_DIR$/002_code/zuul-demo/zuul-server-sentinel/zuul-server-sentinel.iml" />
+    </modules>
+  </component>
+</project>

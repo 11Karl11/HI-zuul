@@ -1,0 +1,8 @@
+E:\learning\boot_2020\zuul-hi\003_software\zuul-demo\order-service\src\main\java\com\example\controller\OrderController.java
+E:\learning\boot_2020\zuul-hi\003_software\zuul-demo\order-service\src\main\java\com\example\service\ProductService.java
+E:\learning\boot_2020\zuul-hi\003_software\zuul-demo\order-service\src\main\java\com\example\fallback\ProductServiceFallbackFactory.java
+E:\learning\boot_2020\zuul-hi\003_software\zuul-demo\order-service\src\main\java\com\example\OrderServiceApplication.java
+E:\learning\boot_2020\zuul-hi\003_software\zuul-demo\order-service\src\main\java\com\example\pojo\Order.java
+E:\learning\boot_2020\zuul-hi\003_software\zuul-demo\order-service\src\main\java\com\example\service\OrderService.java
+E:\learning\boot_2020\zuul-hi\003_software\zuul-demo\order-service\src\main\java\com\example\pojo\Product.java
+E:\learning\boot_2020\zuul-hi\003_software\zuul-demo\order-service\src\main\java\com\example\service\impl\OrderServiceImpl.java
